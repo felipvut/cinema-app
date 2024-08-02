@@ -1,0 +1,23 @@
+.grid{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    height: calc(100vh - 60px);
+}
+.description{
+    padding-top: 2.5rem;
+    display: flex;
+    align-items: center;
+    border-right: 1px solid #797979;
+    flex-direction: column;
+}
+.text{
+    width: 238px;
+    text-align: justify;
+    font-weight: bold;
+}
+.description-text{
+    font-weight: 300;
+}
+.hours{
+    padding: 2.5rem;
+}

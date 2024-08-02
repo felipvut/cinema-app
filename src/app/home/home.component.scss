@@ -6,28 +6,15 @@ body {
   margin: 0;
   padding: 0;
 }
-nav{
-    width: 100%;
-    display: flex;
-    height: 60px;
-    background: #2D2E30;
-    color: #fff;
-    font-family: "Ubuntu", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 30px;
-    justify-content: center;
-    align-items: center;
+h2 {
+  padding-left: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2.5rem;
 }
-h2{
-    padding-left: 3rem;
-    padding-top: 2rem;
-    padding-bottom: 2.5rem;    
-}
-.screen{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 swiper-container {
